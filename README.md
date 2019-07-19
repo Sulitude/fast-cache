@@ -1,3 +1,7 @@
 # fast-cache
 学习-前端缓存工具
-new test rebase hahaha
+
+
+test:rebase功能测试
+再加一行
+
